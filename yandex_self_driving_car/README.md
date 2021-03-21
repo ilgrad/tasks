@@ -22,3 +22,4 @@ usage type_gs = glonass, semi_major = 6378136.5, semi_minor = 6356751.757955
 r_geoc = 6356763.242034094
 {'unit': 'metre', 'manual_mode': 1223.021833941339, 'auto_mode': 2687.8767550746534}
 ```
+![image](map_Las_Vegas.png)
