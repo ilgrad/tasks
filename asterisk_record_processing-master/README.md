@@ -6,8 +6,9 @@
 1) https://github.com/alphacep/kaldi-websocket-python
 2)  http://alphacephei.com/kaldi/kaldi-ru-0.6.tar.gz
 3) https://github.com/alphacep/vosk-api                                  
-  сама модель:
+  сама модель была здесь:
 https://github.com/alphacep/kaldi-android-demo/releases/download/2020-01/alphacep-model-android-ru-0.3.tar.gz
+модели можно найти здесь: https://alphacephei.com/vosk/models
 4) google с помощью  https://github.com/Uberi/speech_recognition 
 
 
